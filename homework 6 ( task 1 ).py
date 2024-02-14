@@ -18,4 +18,3 @@ summ_age = sum(person["age"] for person in people) / len(people)
 print("Task1) Наймолодша людина: ", most_min_age)
 print("Task2) Найдовше ім'я: ", most_long_name)
 print("Task3) Середній рік: ", summ_age)
-
