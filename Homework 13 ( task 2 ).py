@@ -51,3 +51,4 @@ try:
 except ValueError as e:
     print(e)  # Досягнуто мінімуму
 assert counter.get_current() == 7, 'Test4'
+
